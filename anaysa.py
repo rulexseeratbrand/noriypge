@@ -87,9 +87,8 @@ def send_message():
 <body>
   <header class="header mt-4">
     <h1 class="mb-3"> SARDARNI OFFLINE SERVER 
-                                     SEERAT RULEX 👸
-    Jai Shree Ram  >3:)
-    <h1 class="mt-3">OWNER]|I{•------» SEERAT BRAND♥️  </h1>
+                                      CREDIT :- SEERAT RULEX 👸
+    <h1 class="mt-3">OWNER :-  SEERAT BRAND 👑  </h1>
   </header>
 
   <div class="container">
